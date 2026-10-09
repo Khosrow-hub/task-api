@@ -1,6 +1,7 @@
 ﻿# Task API
 
 REST API for managing tasks with JWT authentication.
+- **Base URL:** `https://task-api-sifa.onrender.com`
 
 ## Stack
 - Node.js + Express
